@@ -10,7 +10,7 @@ def get_results(item, location):
 		"hl": "en",
 		"gl": "us",
 		"api_key": "286dc1ea151c8c789b1babc2c6e89694919c91e5edb1908278d4c771c5fdcf68",
-		"num":5
+		"num":30
 	}
 
 	client = GoogleSearch(params)
