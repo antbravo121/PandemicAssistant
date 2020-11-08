@@ -4,7 +4,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import GridSearchCV
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 #load data
 covid_df = pd.read_csv("Covid Dataset.csv")
